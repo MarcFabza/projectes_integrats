@@ -4,6 +4,8 @@ let velocitat = 2;
 
 //prova
 
+//prova
+
 let dibuixarRestants = true;
 let colors = [];
 let colorMostrat;
